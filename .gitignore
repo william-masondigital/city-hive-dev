@@ -45,3 +45,6 @@ bundle.tar.gz
 
 jsdoc-conf.json
 jsdoc.json
+
+###Heroku config
+.env
